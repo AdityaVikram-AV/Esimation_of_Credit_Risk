@@ -1,4 +1,4 @@
-# Esimation_of_Credit_Risk
+# Esimation of Credit Risk
 Using
 1. Logistic Regression
 2. Support Vector Classification
